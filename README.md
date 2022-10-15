@@ -25,7 +25,7 @@ if __name__ == '__main__':
 
 
 ```
-## Get in touch
+## Personal Medias
 
 - Discord : https://discord.gg/nows
 - Personal Site: https://fbi.black
