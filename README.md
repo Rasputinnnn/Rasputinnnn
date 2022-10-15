@@ -1,5 +1,5 @@
 ## Hi, I'mNYX
-![](https://cdn.discordapp.com/attachments/1005074376531656715/1030771834876067860/Sans_titre.png)
+![](https://cdn.discordapp.com/attachments/1005074376531656715/1030772767924174858/Sans_titre.png)
 ```python
 class Nyx
 
