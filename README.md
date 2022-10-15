@@ -6,10 +6,10 @@ class Nyx
     def __init__(self):
         self.username = 'nyx'
         self.name = 'Antoine Dubeau'
-        self.web = 'https://fbi.black§'
+        self.web = 'https://fbi.black'
         self.discord = '𝙽-𝚈-𝚇#1234'
         self.code = {
-            'language': [GOLANG', 'C#', 'JS', 'Python', 'HTML'],
+            'language': ['GOLANG', 'C#', 'JS', 'Python', 'HTML'],
             'backend': ['Python', 'PHP', 'Flask','NodeJS'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
