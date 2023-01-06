@@ -13,7 +13,7 @@ class Nyx
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
         }
-        self.architecture = ['MacOs', 'Windows', 'Serverless', 'microservices']
+        self.architecture = ['MacOs', 'Windows', 'ServerFull', 'microservices']
 
     def __str__(self):
         return self.name
